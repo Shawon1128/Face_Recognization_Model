@@ -1,1 +1,0 @@
-# Face_Recognization_Model
